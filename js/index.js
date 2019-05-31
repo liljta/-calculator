@@ -18,7 +18,7 @@ class Calculator {
     }
 }
 
-function calc(operation) {
+function calc[operation](); {
     let x = document.getElementById('input1').value;
     let y = document.getElementById('input2').value;
     let calc = new Calculator(x, y);
